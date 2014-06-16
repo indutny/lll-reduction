@@ -1,0 +1,32 @@
+{
+  "name": "lll-reduction",
+  "version": "0.0.0",
+  "description": "LLL reduction algorithm",
+  "main": "lib/lll.js",
+  "scripts": {
+    "test": "mocha --reporter=spec test/**/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:indutny/lll-reduction"
+  },
+  "keywords": [
+    "LLL",
+    "Lenstra–Lenstra–Lovász",
+    "Basis",
+    "reduction",
+    "Lattice"
+  ],
+  "author": "Fedor Indutny <fedor@indutny.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indutny/lll-reduction/issues"
+  },
+  "homepage": "https://github.com/indutny/lll-reduction",
+  "peerDependencies": {
+    "bn.js": "^0.13.0"
+  },
+  "devDependencies": {
+    "bn.js": "^0.13.0"
+  }
+}
