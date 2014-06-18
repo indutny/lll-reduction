@@ -1,6 +1,6 @@
 {
   "name": "lll-reduction",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "LLL reduction algorithm",
   "main": "lib/lll.js",
   "scripts": {
