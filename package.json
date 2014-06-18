@@ -24,9 +24,11 @@
   },
   "homepage": "https://github.com/indutny/lll-reduction",
   "peerDependencies": {
-    "bn.js": "^0.13.0"
+    "fract.js": "^0.1.0"
   },
   "devDependencies": {
-    "bn.js": "^0.13.0"
+    "bn.js": "^0.13.0",
+    "fract.js": "^0.2.0",
+    "mocha": "^1.20.1"
   }
 }
